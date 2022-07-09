@@ -1,5 +1,6 @@
 # pyddns
 
+Python实现ddns
 配置config文件，实现多域名动态解析
 
 ### GODADDY DDNS
